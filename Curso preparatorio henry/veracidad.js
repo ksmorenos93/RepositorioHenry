@@ -1,0 +1,10 @@
+console.log("1: "+Boolean(1))
+console.log("0: "+Boolean(0))
+console.log("-1: "+Boolean(-1))
+console.log("true: "+Boolean(true))
+console.log("false: "+Boolean(false))
+console.log("string: "+Boolean("string"))
+console.log("null: "+Boolean(null))
+console.log("undefined: "+Boolean(undefined))
+console.log("[]: "+Boolean([]))
+
